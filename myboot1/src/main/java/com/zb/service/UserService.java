@@ -10,7 +10,7 @@ public class UserService {
     private User user;
     //zjdev
     public User getUserObj() {
-
+        System.out.println("test");
         return user;
     }
 }
